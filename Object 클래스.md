@@ -1,5 +1,6 @@
-# Object 클래스
+# Section01: Object 클래스
 
+## Object 클래스
 ### 자바에서 모든 클래스의 최상위 부모 클래스는 항상 **Object** 클래스이다
 ![img.png](img/img.png)
 
@@ -17,3 +18,9 @@
   * Object는 모든 클래스의 기본 클래스임
   * 모든 자바 객체는 Object 타입으로 처리될 수 있음
   * Object 객체는 모든 객체를 전부 담을 수 있어, 어느 타입의 객체든 Object에 보관 가능함
+  
+
+---
+  
+## Object 다형성
+
