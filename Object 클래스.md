@@ -1,7 +1,7 @@
 # Section01: Object 클래스
 
 ## Object 클래스
-### 자바에서 모든 클래스의 최상위 부모 클래스는 항상 **Object** 클래스이다
+### 자바에서 모든 클래스의 최상위 부모 클래스는 항상 Object 클래스이다
 ![img.png](img/img.png)
 
   
@@ -22,5 +22,3 @@
 
 ---
   
-## Object 다형성
-
