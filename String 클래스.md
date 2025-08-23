@@ -1,4 +1,4 @@
-# Section02: String 클래스
+# Section: String 클래스
 
 ## String 클래스 - 비교
 
