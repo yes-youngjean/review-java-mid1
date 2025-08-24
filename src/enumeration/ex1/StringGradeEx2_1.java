@@ -3,7 +3,7 @@ package enumeration.ex1;
 
 import static enumeration.ex1.StringGrade.*;
 
-public class StringGradeEx1_1 {
+public class StringGradeEx2_1 {
     public static void main(String[] args) {
         int price = 10000;
 
